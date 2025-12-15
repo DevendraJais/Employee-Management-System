@@ -210,10 +210,11 @@ body {
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 20px;
     padding: 40px 15px;
+    margin-top: 6rem;
   }
   
   .employee-table {
-    margin: 40px 0;
+    margin-top: 6rem;
   }
 }
 
@@ -334,7 +335,6 @@ body {
 .employee-table {
   width: 100%;
   border-collapse: collapse;
-  margin: 20px 0;
 }
 
 .employee-table th,
