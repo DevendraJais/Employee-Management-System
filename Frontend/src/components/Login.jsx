@@ -84,7 +84,6 @@ export default function Login() {
         <div className="login-info">
           <p>Default credentials:</p>
           <p>Admin: admin / admin123</p>
-          {/* <p>Employee: employee / employee123</p> */}
         </div>
       </div>
     </div>

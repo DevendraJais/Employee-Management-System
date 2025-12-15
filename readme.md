@@ -65,8 +65,6 @@ Flag / Unflag employee
 
 Login (JWT-based authentication)
 
-Role-based authorization (Admin / Employee)
-
 Indexed fields and optimized queries for performance
 
 Secure JWT authentication
