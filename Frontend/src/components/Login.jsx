@@ -18,7 +18,7 @@ export default function Login() {
     setError('');
 
     try {
-      const response = await fetch('http://localhost:4000/', {
+      const response = await fetch('https://employee-management-system-7twn.onrender.com/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

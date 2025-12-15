@@ -1,4 +1,4 @@
-const GRAPHQL_URL = 'http://localhost:4000/'; // backend
+const GRAPHQL_URL = 'https://employee-management-system-7twn.onrender.com/'; // backend
 
 const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTNlYWY0NjI5MWEyZDA4NzFjNTk5MGMiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3NjU3MjM2OTQsImV4cCI6MTc2NTczODA5NH0.324KM4_H_JVt-CgWgbxCxny3HlX4q3X5Duo_QYzrMws'; //admin token
 
